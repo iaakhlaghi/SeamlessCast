@@ -26,10 +26,10 @@ keywords:
 
 license: MIT
 repository-code: "https://github.com/iaakhlaghi/SeamlessCast"
-doi: "10.5281/zenodo.20595959"
-url: "https://doi.org/10.5281/zenodo.20595959"
+doi: "10.5281/zenodo.20596705"
+url: "https://doi.org/10.5281/zenodo.20596705"
 date-released: 2026-06-08
-version: "1.0.1"
+version: "1.0.2"
 
 preferred-citation:
   type: article
