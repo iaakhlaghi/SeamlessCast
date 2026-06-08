@@ -1,0 +1,10 @@
+numpy
+opencv-python
+pandas
+PySide6
+moderngl
+imageio
+imageio-ffmpeg
+screeninfo
+scipy
+matplotlib

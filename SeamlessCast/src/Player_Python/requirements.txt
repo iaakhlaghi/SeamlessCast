@@ -1,8 +1,0 @@
-PySide6
-moderngl
-numpy
-opencv-python
-pandas
-imageio
-imageio-ffmpeg
-screeninfo
