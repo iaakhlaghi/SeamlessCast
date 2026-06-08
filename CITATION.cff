@@ -29,7 +29,7 @@ repository-code: "https://github.com/iaakhlaghi/SeamlessCast"
 doi: "10.5281/zenodo.20595959"
 url: "https://doi.org/10.5281/zenodo.20595959"
 date-released: 2026-06-08
-version: "1.0.0"
+version: "1.0.1"
 
 preferred-citation:
   type: article
