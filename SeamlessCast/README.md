@@ -405,19 +405,19 @@ The complete SeamlessCast source code, representative calibration data, exported
 Repository:
 
 ```text
-https://github.com/USERNAME/SeamlessCast
+https://github.com/iaakhlaghi/SeamlessCast
 ```
 
 Archived version with DOI:
 
 ```text
-https://doi.org/10.xxxx/zenodo.xxxxxxx
+https://doi.org/10.5281/zenodo.20595959
 ```
 
 DOI:
 
 ```text
-10.xxxx/zenodo.xxxxxxx
+10.5281/zenodo.20595959
 ```
 
 Please replace the placeholder links above with the final GitHub and Zenodo links.
