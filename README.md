@@ -411,13 +411,13 @@ https://github.com/iaakhlaghi/SeamlessCast
 Archived version with DOI:
 
 ```text
-https://doi.org/10.5281/zenodo.20595959
+https://doi.org/10.5281/zenodo.20596705
 ```
 
 DOI:
 
 ```text
-10.5281/zenodo.20595959
+10.5281/zenodo.20596705
 ```
 
 ---
