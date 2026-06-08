@@ -420,8 +420,6 @@ DOI:
 10.5281/zenodo.20595959
 ```
 
-Please replace the placeholder links above with the final GitHub and Zenodo links.
-
 ---
 
 ## Citation
