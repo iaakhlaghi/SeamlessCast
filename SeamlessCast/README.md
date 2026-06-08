@@ -485,9 +485,11 @@ For questions about the code, data, or reproducibility, please contact:
 ```text
 Iman Ahadi Akhlaghi
 Department of Electrical Engineering and Biomedical Engineering
-Sadjad University of Technology
+Sadjad University
 Mashhad, Iran
-Email: i_a_akhlaghi@sadjad.ac.ir
+Email:
+i_a_akhlaghi@sadjad.ac.ir
+i.a.akhlaghi@gmail.com
 ```
 
 ---
