@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "created_at": "2026-05-11 20:47:16",
+  "working_size": [
+    1080,
+    1920
+  ],
+  "content_scale": 0.5,
+  "content_offset": [
+    -100,
+    320
+  ],
+  "interpolation": "linear",
+  "out_of_bounds_value": 0,
+  "num_projectors": 2,
+  "projectors": [
+    {
+      "index": 1,
+      "screen_id": 1,
+      "native_width": 1920,
+      "native_height": 1080,
+      "image_size": [
+        1080,
+        1920
+      ],
+      "xIn_csv": "projector_01_xIn.csv",
+      "yIn_csv": "projector_01_yIn.csv",
+      "weight_csv": "projector_01_weight.csv"
+    },
+    {
+      "index": 2,
+      "screen_id": 2,
+      "native_width": 1920,
+      "native_height": 1080,
+      "image_size": [
+        1080,
+        1920
+      ],
+      "xIn_csv": "projector_02_xIn.csv",
+      "yIn_csv": "projector_02_yIn.csv",
+      "weight_csv": "projector_02_weight.csv"
+    }
+  ]
+}
