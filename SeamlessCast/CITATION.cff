@@ -25,7 +25,9 @@ keywords:
   - calibrated playback
 
 license: MIT
-repository-code: "https://github.com/USERNAME/SeamlessCast"
+repository-code: "https://github.com/iaakhlaghi/SeamlessCast"
+doi: "10.5281/zenodo.20595959"
+url: "https://doi.org/10.5281/zenodo.20595959"
 date-released: 2026-06-08
 version: "1.0.0"
 
